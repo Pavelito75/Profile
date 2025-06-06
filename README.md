@@ -18,37 +18,39 @@
 
 ## 🚀 About Me
 
-<p align="center">
-  I'm currently a student at <strong>Web@cademie by Epitech</strong>, on the path to becoming a <strong>full-stack developer</strong>.<br/>
-  I’m building projects like a <a href="https://github.com/Pavelito75/My-Quizz">Quiz App</a>, and planning an interactive <a href="https://github.com/Pavelito75/BetterChess">Chess Website</a>.<br/>
-  I work with <strong>Java</strong>, <strong>JavaScript</strong>, <strong>PHP</strong>, and frameworks like <strong>Laravel</strong>, <strong>Symfony</strong>, and <strong>React</strong>.<br/>
-  Always learning, I enjoy exploring tools like <strong>Docker</strong>, <strong>PostgreSQL</strong>, and <strong>Tailwind CSS</strong>.<br/><br/>
+<div align="center" style="max-width: 700px; margin: auto; text-align: center;">
+  <p>
+    I'm currently a student at <strong>Web@cademie by Epitech</strong>, on the path to becoming a <strong>full-stack developer</strong>.<br/>
+    I’m building projects like a <a href="https://github.com/Pavelito75/My-Quizz" target="_blank" rel="noopener noreferrer">Quiz App</a>, and planning an interactive <a href="https://github.com/Pavelito75/BetterChess" target="_blank" rel="noopener noreferrer">Chess Website</a>.<br/>
+    I work with <strong>Java</strong>, <strong>JavaScript</strong>, <strong>PHP</strong>, and frameworks like <strong>Laravel</strong>, <strong>Symfony</strong>, and <strong>React</strong>.<br/>
+    Always learning, I enjoy exploring tools like <strong>Docker</strong>, <strong>PostgreSQL</strong>, and <strong>Tailwind CSS</strong>.<br/><br/>
 
-  Want to learn more?<br/>
-  Check out my <a href="https://portfolio-nine-peach-20.vercel.app">Portfolio</a> or <a href="https://github.com/Pavelito75/CV/blob/main/CV%20-%20Gatti%20Pavel.pdf">CV</a>
-</p>
+    Want to learn more?<br/>
+    Check out my <a href="https://portfolio-nine-peach-20.vercel.app" target="_blank" rel="noopener noreferrer">Portfolio</a> or <a href="https://github.com/Pavelito75/CV/blob/main/CV%20-%20Gatti%20Pavel.pdf" target="_blank" rel="noopener noreferrer">CV</a>
+  </p>
 
-<p align="center"><em>🎪 Fun Fact: I once wanted to join the circus before diving into code!</em></p>
+  <p><em>🎪 Fun Fact: I once wanted to join the circus before diving into code!</em></p>
+</div>
 
 ---
 
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/pavel-gatti" target="_blank" rel="noopener noreferrer">
-    <img height="60" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" />
+  <a href="https://linkedin.com/in/pavel-gatti" target="_blank" rel="noreferrer">
+    <img height="50" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  &nbsp;&nbsp;
-  <a href="https://leetcode.com/pavelito" target="_blank" rel="noopener noreferrer">
-    <img height="60" src="https://leetcode.com/favicon.ico" alt="LeetCode" />
+  &nbsp;
+  <a href="https://www.leetcode.com/pavelito" target="_blank" rel="noreferrer">
+    <img height="50" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
   </a>
-  &nbsp;&nbsp;
-  <a href="mailto:gattipavel@yahoo.fr" target="_blank" rel="noopener noreferrer">
-    <img height="60" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" />
+  &nbsp;
+  <a href="mailto:gattipavel@yahoo.fr" target="_blank" rel="noreferrer">
+    <img height="50" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  &nbsp;&nbsp;
-  <a href="https://discord.gg/Pavelito" target="_blank" rel="noopener noreferrer">
-    <img height="60" src="https://cdn-icons-png.flaticon.com/512/2111/2111370.png" alt="Discord" />
+  &nbsp;
+  <a href="https://discord.gg/Pavelito" target="_blank" rel="noreferrer">
+    <img height="50" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
 </p>
 
