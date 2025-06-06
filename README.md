@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/Pavelito75/Profile/blob/main/gifProfile.gif" width="400" alt="coding gif" />
+  <img src="https://github.com/Pavelito75/Profile/blob/main/gifProfile.gif" width="800" alt="coding gif" />
 </p>
 
 ---
