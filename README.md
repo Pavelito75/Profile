@@ -14,7 +14,7 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
+<p align="flex">
   <img src="https://github-readme-stats.vercel.app/api?username=pavelito75&show_icons=true&theme=tokyonight" alt="Pavel's GitHub Stats" />
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pavelito75&layout=compact&theme=tokyonight" alt="Top Languages" />
