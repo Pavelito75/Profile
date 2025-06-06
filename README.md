@@ -7,14 +7,16 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/Pavelito75/Profile/blob/main/gifProfile.gif" width="800" alt="coding gif" />
+  <img src="https://github.com/Pavelito75/Profile/blob/main/gifProfile.gif" width="600" alt="coding gif" />
 </p>
 
 ---
 
 <h3 align="center">🚀 About Me</h3>
 
-<p align="center">
+<div align="center">
+
+<p>
 I'm currently a student at <strong>Web@cademie by Epitech</strong>, on the path to becoming a <strong>full-stack developer</strong>.<br/>
 I’m building projects like a <a href="https://github.com/Pavelito75/My-Quizz">Quiz App</a>, and planning an interactive <a href="https://github.com/Pavelito75/BetterChess">Chess Website</a>.<br/>
 I work with <strong>Java</strong>, <strong>JavaScript</strong>, <strong>PHP</strong>, and frameworks like <strong>Laravel</strong>, <strong>Symfony</strong>, and <strong>React</strong>.<br/>
@@ -24,9 +26,11 @@ Want to learn more?<br/>
 Check out my <a href="https://portfolio-nine-peach-20.vercel.app">Portfolio</a> or <a href="https://github.com/Pavelito75/CV/blob/main/CV%20-%20Gatti%20Pavel.pdf">CV</a>
 </p>
 
-<p align="center">
-  <em>🎪 Fun Fact: I once wanted to join the circus before diving into code !</em>
+<p>
+  <em>🎪 Fun Fact: I once wanted to join the circus before diving into code!</em>
 </p>
+
+</div>
 
 ---
 
