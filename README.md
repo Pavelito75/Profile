@@ -25,7 +25,7 @@
     I work with <strong>Java</strong>, <strong>JavaScript</strong>, <strong>PHP</strong>, and frameworks like <strong>Laravel</strong>, <strong>Symfony</strong>, and <strong>React</strong>.<br/>
     Always learning, I enjoy exploring tools like <strong>Docker</strong>, <strong>PostgreSQL</strong>, and <strong>Tailwind CSS</strong>.<br/><br/>
 
-    Want to learn more?<br/>
+  Want to learn more?<br/>
     Check out my <a href="https://portfolio-nine-peach-20.vercel.app" target="_blank" rel="noopener noreferrer">Portfolio</a> or <a href="https://github.com/Pavelito75/CV/blob/main/CV%20-%20Gatti%20Pavel.pdf" target="_blank" rel="noopener noreferrer">CV</a>
   </p>
 
