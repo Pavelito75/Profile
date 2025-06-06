@@ -14,11 +14,10 @@
 
 ### 📊 GitHub Stats
 
-<p align="flex">
-  <img src="https://github-readme-stats.vercel.app/api?username=pavelito75&show_icons=true&theme=tokyonight" alt="Pavel's GitHub Stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pavelito75&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+  <img src="https://github-readme-stats.vercel.app/api?username=pavelito75&show_icons=true&locale=en" alt="Pavel's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pavelito75&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</div>
 
 ---
 
