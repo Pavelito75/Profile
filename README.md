@@ -36,19 +36,19 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/pavel-gatti" target="_blank" rel="noopener noreferrer">
-    <img height="60" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+    <img height="60" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.leetcode.com/pavelito" target="_blank" rel="noopener noreferrer">
-    <img height="60" src="https://skillicons.dev/icons?i=leetcode" alt="LeetCode" />
+  <a href="https://leetcode.com/pavelito" target="_blank" rel="noopener noreferrer">
+    <img height="60" src="https://leetcode.com/favicon.ico" alt="LeetCode" />
   </a>
   &nbsp;&nbsp;
   <a href="mailto:gattipavel@yahoo.fr" target="_blank" rel="noopener noreferrer">
-    <img height="60" src="https://skillicons.dev/icons?i=gmail" alt="Email" />
+    <img height="60" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" />
   </a>
   &nbsp;&nbsp;
   <a href="https://discord.gg/Pavelito" target="_blank" rel="noopener noreferrer">
-    <img height="60" src="https://skillicons.dev/icons?i=discord" alt="Discord" />
+    <img height="60" src="https://cdn-icons-png.flaticon.com/512/2111/2111370.png" alt="Discord" />
   </a>
 </p>
 
@@ -56,8 +56,24 @@
 
 ## 🛠️ Languages and Tools
 
+<p align="center"><strong>Languages:</strong></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,javascript,php,laravel,symfony,react,tailwindcss,docker,postgres,mysql,nginx,python,express,nodejs,typescript,sass,vue" height="50" />
+  <img src="https://skillicons.dev/icons?i=java,javascript,php,python,typescript" height="50" />
+</p>
+
+<p align="center"><strong>Frameworks & Libraries:</strong></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=laravel,symfony,react,express,nodejs,vue" height="50" />
+</p>
+
+<p align="center"><strong>Databases & Servers:</strong></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,nginx" height="50" />
+</p>
+
+<p align="center"><strong>Tools & CSS:</strong></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,tailwindcss,sass" height="50" />
 </p>
 
 ---
